@@ -2403,16 +2403,6 @@ Text GLabel 10450 1000 1    50   Input ~ 0
 COL12
 Text GLabel 10950 1000 1    50   Input ~ 0
 COL13
-Text GLabel 3150 1850 2    50   Input ~ 0
-NONE
-Text GLabel 3150 1450 2    50   Input ~ 0
-NONE
-Text GLabel 3150 1350 2    50   Input ~ 0
-NONE
-Text GLabel 3150 1250 2    50   Input ~ 0
-NONE
-Text GLabel 3150 1150 2    50   Input ~ 0
-NONE
 Text GLabel 3150 3550 2    50   Input ~ 0
 COL0
 Text GLabel 3150 3650 2    50   Input ~ 0
