@@ -2745,4 +2745,15 @@ F 3 "~" H 4000 7500 50  0001 C CNN
 	1    4000 7500
 	1    0    0    -1  
 $EndComp
+$Comp
+L Mechanical:MountingHole H22
+U 1 1 5F251A42
+P 5000 7500
+F 0 "H22" H 5100 7546 50  0000 L CNN
+F 1 "MountingHole" H 5100 7455 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2mm" H 5000 7500 50  0001 C CNN
+F 3 "~" H 5000 7500 50  0001 C CNN
+	1    5000 7500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
