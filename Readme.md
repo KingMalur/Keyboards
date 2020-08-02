@@ -1,5 +1,7 @@
 # Keyboards
-My personal collection of pcb-designs. Made in KiCAD.
+My personal collection of PCB-designs for keyboards/macroboards. Made in KiCAD.
+
+Untested PCB-designs are going to have a disclaimer in their respective Readme.
 
 Naming according to this list:
 https://www.worldwildlife.org/species/directory?direction=desc&sort=extinction_status
