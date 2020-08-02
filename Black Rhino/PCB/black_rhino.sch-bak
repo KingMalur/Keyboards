@@ -2805,4 +2805,15 @@ Wire Wire Line
 	19900 3800 20650 3800
 Wire Wire Line
 	19900 2900 20650 2900
+$Comp
+L Mechanical:MountingHole H23
+U 1 1 5F2CFA80
+P 19300 13400
+F 0 "H23" H 19400 13446 50  0000 L CNN
+F 1 "MountingHole" H 19400 13355 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2mm" H 19300 13400 50  0001 C CNN
+F 3 "~" H 19300 13400 50  0001 C CNN
+	1    19300 13400
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
