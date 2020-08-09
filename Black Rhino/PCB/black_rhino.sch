@@ -2550,177 +2550,67 @@ $EndComp
 $Comp
 L Mechanical:MountingHole H7
 U 1 1 5F2A8030
-P 19300 12150
-F 0 "H7" H 19400 12196 50  0000 L CNN
-F 1 "MountingHole" H 19400 12105 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2mm" H 19300 12150 50  0001 C CNN
-F 3 "~" H 19300 12150 50  0001 C CNN
-	1    19300 12150
+P 20100 10650
+F 0 "H7" H 20200 10696 50  0000 L CNN
+F 1 "MountingHole" H 20200 10605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2mm" H 20100 10650 50  0001 C CNN
+F 3 "~" H 20100 10650 50  0001 C CNN
+	1    20100 10650
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H8
 U 1 1 5F2B82E0
-P 19300 12400
-F 0 "H8" H 19400 12446 50  0000 L CNN
-F 1 "MountingHole" H 19400 12355 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2mm" H 19300 12400 50  0001 C CNN
-F 3 "~" H 19300 12400 50  0001 C CNN
-	1    19300 12400
+P 20100 10900
+F 0 "H8" H 20200 10946 50  0000 L CNN
+F 1 "MountingHole" H 20200 10855 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2mm" H 20100 10900 50  0001 C CNN
+F 3 "~" H 20100 10900 50  0001 C CNN
+	1    20100 10900
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H9
 U 1 1 5F316618
-P 20300 10650
-F 0 "H9" H 20400 10696 50  0000 L CNN
-F 1 "MountingHole" H 20400 10605 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2mm" H 20300 10650 50  0001 C CNN
-F 3 "~" H 20300 10650 50  0001 C CNN
-	1    20300 10650
+P 20100 11150
+F 0 "H9" H 20200 11196 50  0000 L CNN
+F 1 "MountingHole" H 20200 11105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2mm" H 20100 11150 50  0001 C CNN
+F 3 "~" H 20100 11150 50  0001 C CNN
+	1    20100 11150
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H10
 U 1 1 5F31661E
-P 20300 10900
-F 0 "H10" H 20400 10946 50  0000 L CNN
-F 1 "MountingHole" H 20400 10855 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2mm" H 20300 10900 50  0001 C CNN
-F 3 "~" H 20300 10900 50  0001 C CNN
-	1    20300 10900
+P 20100 11400
+F 0 "H10" H 20200 11446 50  0000 L CNN
+F 1 "MountingHole" H 20200 11355 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2mm" H 20100 11400 50  0001 C CNN
+F 3 "~" H 20100 11400 50  0001 C CNN
+	1    20100 11400
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H11
 U 1 1 5F316624
-P 20300 11150
-F 0 "H11" H 20400 11196 50  0000 L CNN
-F 1 "MountingHole" H 20400 11105 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2mm" H 20300 11150 50  0001 C CNN
-F 3 "~" H 20300 11150 50  0001 C CNN
-	1    20300 11150
+P 20100 11650
+F 0 "H11" H 20200 11696 50  0000 L CNN
+F 1 "MountingHole" H 20200 11605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2mm" H 20100 11650 50  0001 C CNN
+F 3 "~" H 20100 11650 50  0001 C CNN
+	1    20100 11650
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H12
 U 1 1 5F31662A
-P 20300 11400
-F 0 "H12" H 20400 11446 50  0000 L CNN
-F 1 "MountingHole" H 20400 11355 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2mm" H 20300 11400 50  0001 C CNN
-F 3 "~" H 20300 11400 50  0001 C CNN
-	1    20300 11400
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H13
-U 1 1 5F316630
-P 20300 11650
-F 0 "H13" H 20400 11696 50  0000 L CNN
-F 1 "MountingHole" H 20400 11605 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2mm" H 20300 11650 50  0001 C CNN
-F 3 "~" H 20300 11650 50  0001 C CNN
-	1    20300 11650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H14
-U 1 1 5F316636
-P 20300 11900
-F 0 "H14" H 20400 11946 50  0000 L CNN
-F 1 "MountingHole" H 20400 11855 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2mm" H 20300 11900 50  0001 C CNN
-F 3 "~" H 20300 11900 50  0001 C CNN
-	1    20300 11900
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H15
-U 1 1 5F31663C
-P 20300 12150
-F 0 "H15" H 20400 12196 50  0000 L CNN
-F 1 "MountingHole" H 20400 12105 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2mm" H 20300 12150 50  0001 C CNN
-F 3 "~" H 20300 12150 50  0001 C CNN
-	1    20300 12150
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H16
-U 1 1 5F316642
-P 20300 12400
-F 0 "H16" H 20400 12446 50  0000 L CNN
-F 1 "MountingHole" H 20400 12355 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2mm" H 20300 12400 50  0001 C CNN
-F 3 "~" H 20300 12400 50  0001 C CNN
-	1    20300 12400
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H17
-U 1 1 5F34FFBE
-P 19300 12650
-F 0 "H17" H 19400 12696 50  0000 L CNN
-F 1 "MountingHole" H 19400 12605 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2mm" H 19300 12650 50  0001 C CNN
-F 3 "~" H 19300 12650 50  0001 C CNN
-	1    19300 12650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H18
-U 1 1 5F34FFC4
-P 20300 12650
-F 0 "H18" H 20400 12696 50  0000 L CNN
-F 1 "MountingHole" H 20400 12605 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2mm" H 20300 12650 50  0001 C CNN
-F 3 "~" H 20300 12650 50  0001 C CNN
-	1    20300 12650
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H19
-U 1 1 5F37F0C0
-P 19300 12900
-F 0 "H19" H 19400 12946 50  0000 L CNN
-F 1 "MountingHole" H 19400 12855 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2mm" H 19300 12900 50  0001 C CNN
-F 3 "~" H 19300 12900 50  0001 C CNN
-	1    19300 12900
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H20
-U 1 1 5F37F0C6
-P 20300 12900
-F 0 "H20" H 20400 12946 50  0000 L CNN
-F 1 "MountingHole" H 20400 12855 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2mm" H 20300 12900 50  0001 C CNN
-F 3 "~" H 20300 12900 50  0001 C CNN
-	1    20300 12900
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H21
-U 1 1 5F3B30CA
-P 19300 13150
-F 0 "H21" H 19400 13196 50  0000 L CNN
-F 1 "MountingHole" H 19400 13105 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2mm" H 19300 13150 50  0001 C CNN
-F 3 "~" H 19300 13150 50  0001 C CNN
-	1    19300 13150
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H22
-U 1 1 5F251A42
-P 20300 13150
-F 0 "H22" H 20400 13196 50  0000 L CNN
-F 1 "MountingHole" H 20400 13105 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2mm" H 20300 13150 50  0001 C CNN
-F 3 "~" H 20300 13150 50  0001 C CNN
-	1    20300 13150
+P 20100 11900
+F 0 "H12" H 20200 11946 50  0000 L CNN
+F 1 "MountingHole" H 20200 11855 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2mm" H 20100 11900 50  0001 C CNN
+F 3 "~" H 20100 11900 50  0001 C CNN
+	1    20100 11900
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -2805,15 +2695,4 @@ Wire Wire Line
 	19900 3800 20650 3800
 Wire Wire Line
 	19900 2900 20650 2900
-$Comp
-L Mechanical:MountingHole H23
-U 1 1 5F2CFA80
-P 19300 13400
-F 0 "H23" H 19400 13446 50  0000 L CNN
-F 1 "MountingHole" H 19400 13355 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2mm" H 19300 13400 50  0001 C CNN
-F 3 "~" H 19300 13400 50  0001 C CNN
-	1    19300 13400
-	1    0    0    -1  
-$EndComp
 $EndSCHEMATC
