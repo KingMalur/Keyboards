@@ -1191,11 +1191,11 @@ Text GLabel 4050 5750 2    50   Input ~ 0
 ROW3
 Text GLabel 4050 5650 2    50   Input ~ 0
 ROW4
-Text GLabel 4050 4450 2    50   Input ~ 0
+Text GLabel 4050 3350 2    50   Input ~ 0
 COL0
-Text GLabel 4050 4550 2    50   Input ~ 0
+Text GLabel 4050 3450 2    50   Input ~ 0
 COL1
-Text GLabel 4050 4650 2    50   Input ~ 0
+Text GLabel 4050 3550 2    50   Input ~ 0
 COL2
 Text GLabel 4050 4750 2    50   Input ~ 0
 COL3
