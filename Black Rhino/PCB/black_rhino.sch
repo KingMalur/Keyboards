@@ -2443,19 +2443,8 @@ $EndComp
 $Comp
 L Mechanical:MountingHole H6
 U 1 1 5F297D56
-P 4400 14100
-F 0 "H6" H 4500 14146 50  0000 L CNN
-F 1 "MountingHole" H 4500 14055 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2mm" H 4400 14100 50  0001 C CNN
-F 3 "~" H 4400 14100 50  0001 C CNN
-	1    4400 14100
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H7
-U 1 1 5F2A8030
 P 5200 12850
-F 0 "H7" H 5300 12896 50  0000 L CNN
+F 0 "H6" H 5300 12896 50  0000 L CNN
 F 1 "MountingHole" H 5300 12805 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2mm" H 5200 12850 50  0001 C CNN
 F 3 "~" H 5200 12850 50  0001 C CNN
@@ -2463,10 +2452,10 @@ F 3 "~" H 5200 12850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H8
-U 1 1 5F2B82E0
+L Mechanical:MountingHole H7
+U 1 1 5F2A8030
 P 5200 13100
-F 0 "H8" H 5300 13146 50  0000 L CNN
+F 0 "H7" H 5300 13146 50  0000 L CNN
 F 1 "MountingHole" H 5300 13055 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2mm" H 5200 13100 50  0001 C CNN
 F 3 "~" H 5200 13100 50  0001 C CNN
@@ -2474,10 +2463,10 @@ F 3 "~" H 5200 13100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H9
-U 1 1 5F316618
+L Mechanical:MountingHole H8
+U 1 1 5F2B82E0
 P 5200 13350
-F 0 "H9" H 5300 13396 50  0000 L CNN
+F 0 "H8" H 5300 13396 50  0000 L CNN
 F 1 "MountingHole" H 5300 13305 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2mm" H 5200 13350 50  0001 C CNN
 F 3 "~" H 5200 13350 50  0001 C CNN
@@ -2485,10 +2474,10 @@ F 3 "~" H 5200 13350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H10
-U 1 1 5F31661E
+L Mechanical:MountingHole H9
+U 1 1 5F316618
 P 5200 13600
-F 0 "H10" H 5300 13646 50  0000 L CNN
+F 0 "H9" H 5300 13646 50  0000 L CNN
 F 1 "MountingHole" H 5300 13555 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2mm" H 5200 13600 50  0001 C CNN
 F 3 "~" H 5200 13600 50  0001 C CNN
@@ -2496,25 +2485,14 @@ F 3 "~" H 5200 13600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole H11
-U 1 1 5F316624
+L Mechanical:MountingHole H10
+U 1 1 5F31661E
 P 5200 13850
-F 0 "H11" H 5300 13896 50  0000 L CNN
+F 0 "H10" H 5300 13896 50  0000 L CNN
 F 1 "MountingHole" H 5300 13805 50  0000 L CNN
 F 2 "MountingHole:MountingHole_2mm" H 5200 13850 50  0001 C CNN
 F 3 "~" H 5200 13850 50  0001 C CNN
 	1    5200 13850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Mechanical:MountingHole H12
-U 1 1 5F31662A
-P 5200 14100
-F 0 "H12" H 5300 14146 50  0000 L CNN
-F 1 "MountingHole" H 5300 14055 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2mm" H 5200 14100 50  0001 C CNN
-F 3 "~" H 5200 14100 50  0001 C CNN
-	1    5200 14100
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
