@@ -6682,7 +6682,7 @@
   (gr_text "This board serves no\nelectronic function.\nIt's just for practicing\nSMD-soldering." (at 164.30625 164.30625) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "Solering\nTraining\nBoard" (at 164.30625 150.8125) (layer F.SilkS) (tstamp 5F31ECF8)
+  (gr_text "Soldering\nTraining\nBoard" (at 164.30625 150.8125) (layer F.SilkS) (tstamp 5F31ECF8)
     (effects (font (size 2 2) (thickness 0.15)))
   )
   (gr_arc (start 177.8 179.3875) (end 177.8 181.76875) (angle -90) (layer Edge.Cuts) (width 0.05))
