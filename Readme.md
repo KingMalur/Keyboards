@@ -1,4 +1,4 @@
-![PCB.PNG](/repository/pcb.png)
+![PCB.PNG](pcb.png)
 
 # Keyboards
 My personal collection of PCB-designs for keyboards/macroboards. Made in KiCAD.
